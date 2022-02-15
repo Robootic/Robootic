@@ -8,7 +8,7 @@ Prazer, meu nome é Lucas Maia e gosto muito de jogar. Sou formado como técnico
   
 ##
 
-### 📊 Estatística
+### 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/Robootic">
